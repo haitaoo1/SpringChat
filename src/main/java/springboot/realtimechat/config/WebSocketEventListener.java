@@ -34,13 +34,4 @@ public class WebSocketEventListener {
         }
 
     }
-
-    @EventListener
-    public void WebSockerConnectListener(){
-
-    }
-
-
-
-
 }
